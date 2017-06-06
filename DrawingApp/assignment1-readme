@@ -1,0 +1,31 @@
+1. implemented All basic function
+    Color: Blue, Red, Yellow, Purple, and Green.
+    Shape: eclipse, line, square and free style
+    Delete All with confirmation
+    Pan gesture drawing with finger
+    Support landscape only
+
+2. implemented Advanced function
+    triangle
+    changing the line of width
+    eraser function
+    save a drawing to photo album
+    for different screen sizes
+
+3. design pattern
+    model view controller: view is UI layout, controller is ViewController class, model are specific shape classes.
+    strategy design pattern: BaseShape include “point”, and each sub class include itself draw algorithm, it is easy to expand.
+
+4. No third party libraries
+
+5. known bugs:
+   save image including buttons, I need to use UIImage to replace view to save image
+
+6. Anything could do better
+    I would like to implement a Shape Controller Class to separate some functions from ViewController Class. Currently, ViewController have many function, not easy to change, maintain and extend.
+
+7. I took 120 hours on working on this app.
+	I enrolled "Software Defined Network", "Web-based System", "Network Programming" and "IOS development"
+    before I completed this app, I had finished "Network Programming" and "Software Defined Network" assignments including paper and programming.
+
+
