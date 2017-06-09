@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>maxRadius</key>
+	<string>1000</string>
+	<key>userKey</key>
+	<string>7e6db2d09bc8880b989392b8d2e1e75b</string>
+	<key>queryContent</key>
+	<string>coffee</string>
+	<key>sortOrder</key>
+	<string>asc</string>
+	<key>maxCountOfItems</key>
+	<integer>20</integer>
+</dict>
+</plist>
